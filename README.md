@@ -1,3 +1,9 @@
-# Get Started Angular
+# Iniciando com Angular
 
-This tutorial introduces you to the essentials of Angular by walking you through building an e-commerce site with a catalog, shopping cart, and check-out form.
+Este tutorial apresentará os fundamentos do Angular, orientando-o na construção de uma SPA (Single Page Application).
+
+## Ajustando seu ambiente
+
+## Criando um componente
+
+## Utilizando o componente criado
